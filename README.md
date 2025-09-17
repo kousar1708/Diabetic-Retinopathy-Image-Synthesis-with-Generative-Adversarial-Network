@@ -1,0 +1,2 @@
+# Diabetic-Retinopathy-Image-Synthesis-with-Generative-Adversarial-Network
+In the field of medical imaging, the availability of large, high-quality annotated datasets is often a major challenge. To address GAN offer a promising solution by synthesizing realistic medical images from limited training data. Manual data generation by medical professionals is both time-consuming and expensive, and may be prone to human error. 
